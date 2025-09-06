@@ -1,0 +1,10 @@
+[       CREATED] token=fbc43aa2 remid=0 locid=0 saddr4=10.0.0.1 daddr4=192.168.10.2 sport=55007 dport=12865
+[   ESTABLISHED] token=fbc43aa2 remid=0 locid=0 saddr4=10.0.0.1 daddr4=192.168.10.2 sport=55007 dport=12865
+[     ANNOUNCED] token=fbc43aa2 remid=2 daddr4=192.168.11.2 dport=12865
+[SF_ESTABLISHED] token=fbc43aa2 remid=2 locid=0 saddr4=10.0.0.1 daddr4=192.168.11.2 sport=56819 dport=12865 backup=0
+[       CREATED] token=f310f095 remid=0 locid=0 saddr4=10.0.0.1 daddr4=192.168.10.2 sport=36359 dport=37573
+[   ESTABLISHED] token=f310f095 remid=0 locid=0 saddr4=10.0.0.1 daddr4=192.168.10.2 sport=36359 dport=37573
+[     ANNOUNCED] token=f310f095 remid=2 daddr4=192.168.11.2 dport=37573
+[SF_ESTABLISHED] token=f310f095 remid=2 locid=0 saddr4=10.0.0.1 daddr4=192.168.11.2 sport=36739 dport=37573 backup=0
+[        CLOSED] token=f310f095
+[        CLOSED] token=fbc43aa2
